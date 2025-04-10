@@ -1,8 +1,7 @@
 ---
 seo:
-  title: Nuxt UI Pro - Docs template
-  description: Nuxt UI Pro is a collection of premium Vue components built on top
-    of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+  title: AP WEBSITE TEST
+  description: AP WEBSITE TEST
 ---
 
 ::u-page-hero
@@ -15,15 +14,15 @@ orientation: horizontal
   filename: Terminal
   ---
   ```bash
-  npx nuxi init -t github:nuxt-ui-pro/docs
+  some code 
   ```
   :::
 
 #title
-Build your docs with Nuxt UI Pro
+AP WEBSITE TEST TITLE
 
 #description
-Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive applications in minutes.
+AP WEBSITE TEST DESCRIPTION.
 
 #links
   :::u-button
@@ -32,7 +31,7 @@ Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to cre
   to: /getting-started
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  GO TO
   :::
 
   :::u-button
@@ -44,7 +43,7 @@ Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to cre
   to: https://github.com/nuxt-ui-pro/docs
   variant: subtle
   ---
-  Use this template
+  SECONDARY BUTTON
   :::
 ::
 
